@@ -1,2 +1,2 @@
 # Colonic Residues Electronic Cleansing Using Segmentation-GAN Framework
-Code is coming soon.
+Code and dataset are coming soon.
